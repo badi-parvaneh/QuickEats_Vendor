@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">QuickEats_Vendor</string>
+    <string name="title_activity_setting">settingActivity</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="vendor_spinner">
+        <item>Al Attles\' California Cheesesteak</item>
+        <item>Banh Mi Sandwiches</item>
+        <item>BurgerQueen</item>
+        <item>Cocktail Bar</item>
+        <item>Coors Light Club</item>
+        <item>Dippin Dots</item>
+        <item>Dub Greens</item>
+        <item>DubNation Sandwiches</item>
+        <item>Farina Pizza</item>
+        <item>Fuelburger</item>
+        <item>Golden State Greats</item>
+        <item>Loaded Nachos, Dogs</item>
+        <item>Peet\'s Coffee</item>
+        <item>Popcorn Cart</item>
+        <item>Salad Champion</item>
+        <item>Shock Top Beer</item>
+        <item>Slices and Suds</item>
+        <item>Smokin Oakland Grill</item>
+    </string-array>
+</resources>
